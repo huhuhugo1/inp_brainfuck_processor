@@ -1,0 +1,823 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\FitkitSVN\apps\INP\proj2\fpga\sim
+T_opt
+V<<H2Em20if0HD`N0EKR=`0
+04 9 10 work testbench behavioral 1
+=1-00e04c429c22-5814e2b3-317-5bba8
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+Eclkgen
+Z1 w1234021972
+Z2 DPx6 unisim 11 vcomponents 0 22 >RaX=ZabfB=^WzE4@RF<W2
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 work 10 clkgen_cfg 0 22 @i7TdFb:hBXm;CZd0n[[B3
+Z5 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 dD:\FitkitSVN\apps\INP\proj2\fpga\sim
+Z9 8../../../../../fpga/units/clkgen/clkgen.vhd
+Z10 F../../../../../fpga/units/clkgen/clkgen.vhd
+l0
+L29
+V?;Xk_Z6Z7^7WkeF]kgYCo3
+Z11 OL;C;10.1c;51
+32
+Z12 !s108 1477763760.830000
+Z13 !s90 -reportprogress|300|-work|work|../../../../../fpga/units/clkgen/clkgen.vhd|
+Z14 !s107 ../../../../../fpga/units/clkgen/clkgen.vhd|
+Z15 o-work work
+Z16 tExplicit 1
+!s100 fP;niAK;<`]keYz9;GV@R2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+R7
+Z17 DEx4 work 6 clkgen 0 22 ?;Xk_Z6Z7^7WkeF]kgYCo3
+l92
+L38
+V3hNgRzWKoP1V8[gzb=:6P2
+R11
+32
+R12
+R13
+R14
+R15
+R16
+!s100 LUHWn>feR5E?5BjzM_zoA0
+!i10b 1
+Pclkgen_cfg
+R3
+R6
+R7
+R1
+R8
+Z18 8../../../../../fpga/units/clkgen/clkgen_config.vhd
+Z19 F../../../../../fpga/units/clkgen/clkgen_config.vhd
+l0
+L48
+V@i7TdFb:hBXm;CZd0n[[B3
+R11
+32
+b1
+Z20 !s108 1477763760.620000
+Z21 !s90 -reportprogress|300|-work|work|../../../../../fpga/units/clkgen/clkgen_config.vhd|
+Z22 !s107 ../../../../../fpga/units/clkgen/clkgen_config.vhd|
+R15
+R16
+!s100 <?L@da;FX@:DTn28ZQK3B2
+!i10b 1
+Bbody
+R4
+R3
+R6
+R7
+l0
+L62
+VzM0U;nSa2Wg`UV0Vh2S8i3
+R11
+32
+R20
+R21
+R22
+R15
+R16
+nbody
+!s100 j[jYL_n=cO1ORFCcGL4Xh1
+!i10b 1
+Ecpu
+Z23 w1477694705
+Z24 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R3
+R6
+R7
+R8
+Z25 8../cpu.vhd
+Z26 F../cpu.vhd
+l0
+L15
+Vch_K1oTj`SMkTOO6mk2kY1
+R11
+32
+Z27 !s108 1477763762.898000
+Z28 !s90 -reportprogress|300|-work|work|../cpu.vhd|
+Z29 !s107 ../cpu.vhd|
+R15
+R16
+!s100 kgB3Um>kZdGN4=RRYid=43
+!i10b 1
+Abehavioral
+R24
+R3
+R6
+R7
+DEx4 work 3 cpu 0 22 ch_K1oTj`SMkTOO6mk2kY1
+l75
+L49
+Ve2JeGH7NH5?bT8`b^BjP72
+R11
+32
+R27
+R28
+R29
+R15
+R16
+!s100 KELHQ;QV2K0diZTgG;7OR0
+!i10b 1
+Efpga
+R1
+R6
+R7
+R8
+8../../../../../fpga/chips/fpga_xc3s50.vhd
+F../../../../../fpga/chips/fpga_xc3s50.vhd
+l0
+L46
+VdY58WG51SZjMPh?hfSkk<0
+R11
+32
+R15
+R16
+!s100 cYQV:dZkN]@Bl0;_GPAiG3
+!i10b 1
+!s108 1477763761.789000
+!s90 -reportprogress|300|-work|work|../../../../../fpga/chips/fpga_xc3s50.vhd|
+!s107 ../../../../../fpga/chips/fpga_xc3s50.vhd|
+Aarch_bare_ifc
+R2
+R5
+R17
+Z30 DEx4 work 4 fpga 0 22 dY58WG51SZjMPh?hfSkk<0
+Z31 DPx4 work 8 fpga_cfg 0 22 ?I^04d@9:4BFkF;^k62Zb2
+R3
+R6
+R7
+R4
+8../../../../../fpga/chips/architecture_bare/arch_bare_ifc.vhd
+F../../../../../fpga/chips/architecture_bare/arch_bare_ifc.vhd
+l149
+L46
+VV3Y3<2LO0zjMe?_Obc8892
+R11
+32
+R15
+R16
+!s100 X_zFW^ngDMQ^`nkZTI<2:2
+!i10b 1
+!s108 1477763761.868000
+!s90 -reportprogress|300|-work|work|../../../../../fpga/chips/architecture_bare/arch_bare_ifc.vhd|
+!s107 ../../../../../fpga/chips/architecture_bare/arch_bare_ifc.vhd|
+Pfpga_cfg
+R3
+R6
+R7
+R4
+Z32 w1477758272
+R8
+Z33 8../../build/fpga/inp_config.vhd
+Z34 F../../build/fpga/inp_config.vhd
+l0
+L4
+V?I^04d@9:4BFkF;^k62Zb2
+R11
+32
+Z35 !s108 1477763760.727000
+Z36 !s90 -reportprogress|300|-work|work|../../build/fpga/inp_config.vhd|
+Z37 !s107 ../../build/fpga/inp_config.vhd|
+R15
+R16
+!s100 imglc3kD9c2ICXVhW13Yl3
+!i10b 1
+Bbody
+R31
+R3
+R6
+R7
+R4
+l0
+L8
+VGQ^h1nWc0AfEl8Rz^Sb5:1
+R11
+32
+R35
+R36
+R37
+R15
+R16
+nbody
+!s100 YKX?khZEh]RVn@_UWiKAi2
+!i10b 1
+Ekb_controller
+Z38 w1477650141
+R24
+R3
+R6
+R7
+R8
+Z39 8../kbctrl.vhd
+Z40 F../kbctrl.vhd
+l0
+L49
+V_AT;L?JQf3SAHZ_k^L6Y51
+R11
+32
+Z41 !s108 1477763762.580000
+Z42 !s90 -reportprogress|300|-work|work|../kbctrl.vhd|
+Z43 !s107 ../kbctrl.vhd|
+R15
+R16
+!s100 <X?@eVZ`A@T=>P^B29DCD1
+!i10b 1
+Abehavioral
+Z44 DEx4 work 19 keyboard_controller 0 22 =ge`<PLOb:;Mid<HFjE5l3
+R24
+R3
+R6
+R7
+Z45 DEx4 work 13 kb_controller 0 22 _AT;L?JQf3SAHZ_k^L6Y51
+l96
+L67
+V_E=52JcmE]]iBP@QdQ=oK2
+R11
+32
+R41
+R42
+R43
+R15
+R16
+!s100 7J66W?;32AzznBcNm`fV=1
+!i10b 1
+Ekeyboard
+Z46 w1237978154
+R5
+Z47 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R24
+R3
+R6
+R7
+R8
+Z48 8../../../../../fpga/models/keyboard/keyboard.vhd
+Z49 F../../../../../fpga/models/keyboard/keyboard.vhd
+l0
+L15
+V5`LGkNR;VIUngX5d7WHTi1
+R11
+32
+Z50 !s108 1477763763.207000
+Z51 !s90 -reportprogress|300|-work|work|../../../../../fpga/models/keyboard/keyboard.vhd|
+Z52 !s107 ../../../../../fpga/models/keyboard/keyboard.vhd|
+R15
+R16
+!s100 M[DY?LnKz?z[1Mj9oEPf00
+!i10b 1
+Abehavioral
+R5
+R47
+R24
+R3
+R6
+R7
+DEx4 work 8 keyboard 0 22 5`LGkNR;VIUngX5d7WHTi1
+l30
+L26
+VK4:Ddj_93GC<YT`@fCg2W0
+R11
+32
+R50
+R51
+R52
+R15
+R16
+!s100 R5ENbNTaZ]@SzU?HodH0=3
+!i10b 1
+Ekeyboard_controller
+R1
+R24
+R3
+R6
+R7
+R8
+Z53 8../../../../../fpga/ctrls/keyboard/keyboard_ctrl.vhd
+Z54 F../../../../../fpga/ctrls/keyboard/keyboard_ctrl.vhd
+l0
+L88
+V=ge`<PLOb:;Mid<HFjE5l3
+R11
+32
+Z55 !s108 1477763762.261000
+Z56 !s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/keyboard/keyboard_ctrl.vhd|
+Z57 !s107 ../../../../../fpga/ctrls/keyboard/keyboard_ctrl.vhd|
+R15
+R16
+!s100 d:abg4Wgk@Go2kfJ<Q[i10
+!i10b 1
+Aarch_keyboard
+R24
+R3
+R6
+R7
+R44
+l130
+L108
+VM4;DYEaG:MCfIjcNXMo`@3
+R11
+32
+R55
+R56
+R57
+R15
+R16
+!s100 0>E@X9Tg9IPHTTCK:Chm<1
+!i10b 1
+Ekeyboard_controller_high
+R1
+R24
+R3
+R6
+R7
+R8
+Z58 8../../../../../fpga/ctrls/keyboard/keyboard_ctrl_high.vhd
+Z59 F../../../../../fpga/ctrls/keyboard/keyboard_ctrl_high.vhd
+l0
+L49
+VJT1CzJcUO<k>N92YJgn<61
+R11
+32
+Z60 !s108 1477763762.372000
+Z61 !s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/keyboard/keyboard_ctrl_high.vhd|
+Z62 !s107 ../../../../../fpga/ctrls/keyboard/keyboard_ctrl_high.vhd|
+R15
+R16
+!s100 IGSS08GjC9H_JnIgdi3SR1
+!i10b 1
+Abehavioral
+R44
+R24
+R3
+R6
+R7
+DEx4 work 24 keyboard_controller_high 0 22 JT1CzJcUO<k>N92YJgn<61
+l72
+L67
+V4bK0KM:ShK0c6BDT9LzdC1
+R11
+32
+R60
+R61
+R62
+R15
+R16
+!s100 3QNiE;[;^G]QS0I?zUI=F0
+!i10b 1
+Elcd
+R46
+R5
+R47
+R24
+R3
+R6
+R7
+R8
+Z63 8../../../../../fpga/models/lcd/lcd.vhd
+Z64 F../../../../../fpga/models/lcd/lcd.vhd
+l0
+L15
+V`BG<fEHXMg6D2>d7n3H_l1
+R11
+32
+Z65 !s108 1477763763.323000
+Z66 !s90 -reportprogress|300|-work|work|../../../../../fpga/models/lcd/lcd.vhd|
+Z67 !s107 ../../../../../fpga/models/lcd/lcd.vhd|
+R15
+R16
+!s100 Ah0aG]3DY43i29`0[JbPP3
+!i10b 1
+Abehavioral
+R5
+R47
+R24
+R3
+R6
+R7
+Z68 DEx4 work 3 lcd 0 22 `BG<fEHXMg6D2>d7n3H_l1
+l57
+L27
+VGSn`Ih8Mie@XQ]aGLDSTz2
+R11
+32
+R65
+R66
+R67
+R15
+R16
+!s100 c8F0RTWCT6gd>cHMjaJ>W1
+!i10b 1
+Elcd_controller
+R38
+R24
+R3
+R6
+R7
+R8
+Z69 8../lcdctrl.vhd
+Z70 F../lcdctrl.vhd
+l0
+L49
+VDjc17QJ_[H<7HPbDGajH:3
+R11
+32
+Z71 !s108 1477763762.476000
+Z72 !s90 -reportprogress|300|-work|work|../lcdctrl.vhd|
+Z73 !s107 ../lcdctrl.vhd|
+R15
+R16
+!s100 0<VgzYoGmN8hFTWkiF4=j3
+!i10b 1
+Abehavioral
+R24
+R3
+R6
+R7
+Z74 DEx4 work 14 lcd_controller 0 22 Djc17QJ_[H<7HPbDGajH:3
+l113
+L72
+VQMA`4TX=I]a0XlSEJVh9m3
+R11
+32
+R71
+R72
+R73
+R15
+R16
+!s100 V89EKSNS19EflamYSi@U[1
+!i10b 1
+Pmath_pack
+R6
+R7
+R1
+R8
+Z75 8../../../../../fpga/units/math/math_pack.vhd
+Z76 F../../../../../fpga/units/math/math_pack.vhd
+l0
+L47
+V0;4e9C6QZL3PcO=P3cN=P3
+R11
+32
+b1
+Z77 !s108 1477763761.188000
+Z78 !s90 -reportprogress|300|-work|work|../../../../../fpga/units/math/math_pack.vhd|
+Z79 !s107 ../../../../../fpga/units/math/math_pack.vhd|
+R15
+R16
+!s100 27WEBlbhCK=iddW]L34OZ3
+!i10b 1
+Bbody
+Z80 DPx4 work 9 math_pack 0 22 0;4e9C6QZL3PcO=P3cN=P3
+R6
+R7
+l0
+L52
+VJUoH1IFZam>keJGCC3z553
+R11
+32
+R77
+R78
+R79
+R15
+R16
+nbody
+!s100 zW^7STG9Hg7n5Z<TTUCaV1
+!i10b 1
+Eram
+R38
+R3
+R24
+R6
+R7
+R8
+Z81 8../ram.vhd
+Z82 F../ram.vhd
+l0
+L14
+V6IZIdVJaEEI270b=KfYF`3
+R11
+32
+Z83 !s108 1477763762.689000
+Z84 !s90 -reportprogress|300|-work|work|../ram.vhd|
+Z85 !s107 ../ram.vhd|
+R15
+R16
+!s100 =5HgECog=J0zCmNaXL=Xa0
+!i10b 1
+Abehavioral
+R3
+R24
+R6
+R7
+Z86 DEx4 work 3 ram 0 22 6IZIdVJaEEI270b=KfYF`3
+l35
+L30
+V@=?miAc6;26:LJ6Qe2?ag0
+R11
+32
+R83
+R84
+R85
+R15
+R16
+!s100 8m:aG=g_jc7dJB<l^?`CD3
+!i10b 1
+Erom
+R38
+R3
+R24
+R6
+R7
+R8
+Z87 8../rom.vhd
+Z88 F../rom.vhd
+l0
+L14
+VfUFh48cC67hiC5:OQWMGO3
+R11
+32
+Z89 !s108 1477763762.792000
+Z90 !s90 -reportprogress|300|-work|work|../rom.vhd|
+Z91 !s107 ../rom.vhd|
+R15
+R16
+!s100 j>BED0h<;8Q=DR7eC6IAn3
+!i10b 1
+Abehavioral
+R3
+R24
+R6
+R7
+Z92 DEx4 work 3 rom 0 22 fUFh48cC67hiC5:OQWMGO3
+l44
+L30
+Vaf8]QMV2b:zlnU>cm[cfj2
+R11
+32
+R89
+R90
+R91
+R15
+R16
+!s100 JAoiVh@W4Dk;m^mXmIg^z2
+!i10b 1
+Espi_adc
+R1
+R6
+R7
+R8
+8../../../../../fpga/ctrls/spi/spi_adc_entity.vhd
+F../../../../../fpga/ctrls/spi/spi_adc_entity.vhd
+l0
+L47
+VYMaDV?@DkOh[TcEA=O<;W0
+R11
+32
+R15
+R16
+!s100 cf8hclPLQmNM02_S8>LfM1
+!i10b 1
+!s108 1477763761.289000
+!s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/spi/spi_adc_entity.vhd|
+!s107 ../../../../../fpga/ctrls/spi/spi_adc_entity.vhd|
+Aautoincrement
+Z93 DEx4 work 7 spi_adc 0 22 YMaDV?@DkOh[TcEA=O<;W0
+R80
+R24
+R3
+R6
+R7
+8../../../../../fpga/ctrls/spi/spi_adc_autoincr.vhd
+F../../../../../fpga/ctrls/spi/spi_adc_autoincr.vhd
+l81
+L50
+VGa5iQBj6K1XR;^j:hH@]@2
+R11
+32
+R15
+R16
+!s100 EPSK5iz;n1J1C51ZllbR80
+!i10b 1
+!s108 1477763761.471000
+!s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/spi/spi_adc_autoincr.vhd|
+!s107 ../../../../../fpga/ctrls/spi/spi_adc_autoincr.vhd|
+Abasic
+R93
+R80
+R24
+R3
+R6
+R7
+8../../../../../fpga/ctrls/spi/spi_adc.vhd
+F../../../../../fpga/ctrls/spi/spi_adc.vhd
+l81
+L51
+VQj1e9kXWY?de:ZM`nB?_:0
+R11
+32
+R15
+R16
+!s100 7R8Udbf>;980jlDOD_82Q2
+!i10b 1
+!s108 1477763761.374000
+!s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/spi/spi_adc.vhd|
+!s107 ../../../../../fpga/ctrls/spi/spi_adc.vhd|
+Pspi_cfg
+R3
+R6
+R7
+Z94 w1444135084
+R8
+Z95 8../../../../../fpga/ctrls/spi/spi_reg.vhd
+Z96 F../../../../../fpga/ctrls/spi/spi_reg.vhd
+l0
+L47
+VnOGUWT3:g@k51>a:3hflI0
+R11
+32
+Z97 !s108 1477763761.561000
+Z98 !s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/spi/spi_reg.vhd|
+Z99 !s107 ../../../../../fpga/ctrls/spi/spi_reg.vhd|
+R15
+R16
+!s100 >3::`Fm?5Ql1n8CT>Dze31
+!i10b 1
+Espi_ctrl
+R1
+R24
+R3
+R6
+R7
+R8
+Z100 8../../../../../fpga/ctrls/spi/spi_ctrl.vhd
+Z101 F../../../../../fpga/ctrls/spi/spi_ctrl.vhd
+l0
+L49
+VoJMh5nI]Y0X=]09]WgT1>1
+R11
+32
+Z102 !s108 1477763761.683000
+Z103 !s90 -reportprogress|300|-work|work|../../../../../fpga/ctrls/spi/spi_ctrl.vhd|
+Z104 !s107 ../../../../../fpga/ctrls/spi/spi_ctrl.vhd|
+R15
+R16
+!s100 6B;VP9RWKGM>fEkL6OScL0
+!i10b 1
+Aarch_spi_ctrl2
+R24
+R3
+R6
+R7
+DEx4 work 8 spi_ctrl 0 22 oJMh5nI]Y0X=]09]WgT1>1
+l83
+L72
+VLW3@UH]oj=ied?9k3G8TT3
+R11
+32
+R102
+R103
+R104
+R15
+R16
+!s100 S6XJ378h_6m8lnL1PiYem1
+!i10b 1
+Espi_reg
+R94
+R24
+R3
+R6
+R7
+R8
+R95
+R96
+l0
+L57
+VgWXZca?lzg^bPLmib6XWW0
+R11
+32
+R97
+R98
+R99
+R15
+R16
+!s100 EzfgNLgR?Y[iQa@j]ChGc2
+!i10b 1
+Abeh
+R24
+R3
+R6
+R7
+DEx4 work 7 spi_reg 0 22 gWXZca?lzg^bPLmib6XWW0
+l116
+L83
+VXbcj0`GXVk_7lYH;fD8@o0
+R11
+32
+R97
+R98
+R99
+R15
+R16
+!s100 `2G?T7ZLB8Fe0M=X828E:1
+!i10b 1
+Etestbench
+Z105 w1477693046
+R5
+R47
+R24
+R3
+R6
+R7
+R8
+Z106 8tb.vhd
+Z107 Ftb.vhd
+l0
+L16
+V>No=A0GV4C7L6QooO3d_Q1
+R11
+32
+Z108 !s108 1477763763.440000
+Z109 !s90 -reportprogress|300|-work|work|tb.vhd|
+Z110 !s107 tb.vhd|
+R15
+R16
+!s100 nFgNh<@a70FKBTPP]AQ>E2
+!i10b 1
+Abehavioral
+R68
+R30
+R5
+R47
+R24
+R3
+R6
+R7
+DEx4 work 9 testbench 0 22 >No=A0GV4C7L6QooO3d_Q1
+l39
+L22
+VY]j?oX;`fhS1PO_XG_9:X3
+R11
+32
+R108
+R109
+R110
+R15
+R16
+!s100 2IC?KXaY?QbTC_YHM0fGC1
+!i10b 1
+Etlv_bare_ifc
+R1
+R6
+R7
+R8
+8../../../../../fpga/chips/architecture_bare/tlv_bare_ifc.vhd
+F../../../../../fpga/chips/architecture_bare/tlv_bare_ifc.vhd
+l0
+L47
+VnE5^BC^@Z`]BMHa:30<:20
+R11
+32
+R15
+R16
+!s100 `Cg_MmfgF_FU6HVkfKb@11
+!i10b 1
+!s108 1477763762.178000
+!s90 -reportprogress|300|-work|work|../../../../../fpga/chips/architecture_bare/tlv_bare_ifc.vhd|
+!s107 ../../../../../fpga/chips/architecture_bare/tlv_bare_ifc.vhd|
+Amain
+w1477691446
+R45
+R74
+R86
+R92
+DEx4 work 12 tlv_bare_ifc 0 22 nE5^BC^@Z`]BMHa:30<:20
+R24
+R3
+R6
+R7
+8../top.vhd
+F../top.vhd
+l66
+L12
+Vk0HIVAO5BFADSJO;YA5So0
+R11
+32
+R15
+R16
+!s100 4id@DiQ730B7Vc8zFP4Zm3
+!i10b 1
+!s108 1477763763.003000
+!s90 -reportprogress|300|-work|work|../top.vhd|
+!s107 ../top.vhd|

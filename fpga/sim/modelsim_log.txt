@@ -1,0 +1,21 @@
+# Reading D:/modeltech64_10.1c/tcl/vsim/pref.tcl 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do sim.fdo 
+# tb.vhd
+# no
+# ** Error: couldn't read file "../../../../../base/modelsim.fdo": no such file or directory
+# Error in macro ./sim.fdo line 8
+# couldn't read file "../../../../../base/modelsim.fdo": no such file or directory
+#     while executing
+# "source "../../../../../base/modelsim.fdo""
+#     (file "../../build/fpga/inp_sim.fdo" line 28)
+#     invoked from within
+# "source "../../build/fpga/inp_sim.fdo""
